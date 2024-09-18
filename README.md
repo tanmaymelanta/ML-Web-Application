@@ -34,3 +34,5 @@ This project uses Streamlit to visualize ship trade patterns on a map. The app r
 
 ## Contributing
 Feel free to open issues or submit pull requests.
+
+![WebM Video](https://drive.google.com/file/d/16jJHt6Dgy3GjRRvfFvJO9WKDvxvPZki6/view?usp=sharing)
