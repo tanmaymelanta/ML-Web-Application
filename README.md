@@ -22,9 +22,10 @@ This project uses Streamlit to visualize ship trade patterns on a map. The app r
    pip install -r requirements.txt
 
 ## Running the App
-1. Download the CSV file Ship Data.csv from the following link and place it in the project directory: [Download Ship Data.csv](https://drive.google.com/file/d/1jCZcf7xY4PdQKUgx7r_PJmX8wj8k1Z3x/view?usp=sharing)
+1. Download the CSV file Ship Data.csv from the following link and place it in the project directory:
+   [Download Ship Data.csv](https://drive.google.com/file/d/1jCZcf7xY4PdQKUgx7r_PJmX8wj8k1Z3x/view?usp=sharing)
 
-2. Run the Streamlit app:
+3. Run the Streamlit app:
    streamlit run project/app.py
 
 ## File Structure
